@@ -1,0 +1,3 @@
+C:\Users\maxni\OneDrive\Desktop\c#\Lab 4 Q 2 p3\Lab 4 Q 2 p3\obj\Debug\Lab 4 Q 2 p3.csproj.AssemblyReference.cache
+C:\Users\maxni\OneDrive\Desktop\c#\Lab 4 Q 2 p3\Lab 4 Q 2 p3\obj\Debug\Lab 4 Q 2 p3.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxni\OneDrive\Desktop\c#\Lab 4 Q 2 p3\Lab 4 Q 2 p3\obj\Debug\Lab 4 Q 2 p3.csproj.CoreCompileInputs.cache
