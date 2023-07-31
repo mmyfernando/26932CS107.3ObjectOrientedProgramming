@@ -1,0 +1,8 @@
+C:\Users\maxni\OneDrive\Desktop\c#\Lab 1 q 3\Lab 1 q 3\bin\Debug\Lab 1 q 3.exe.config
+C:\Users\maxni\OneDrive\Desktop\c#\Lab 1 q 3\Lab 1 q 3\bin\Debug\Lab 1 q 3.exe
+C:\Users\maxni\OneDrive\Desktop\c#\Lab 1 q 3\Lab 1 q 3\bin\Debug\Lab 1 q 3.pdb
+C:\Users\maxni\OneDrive\Desktop\c#\Lab 1 q 3\Lab 1 q 3\obj\Debug\Lab 1 q 3.csproj.AssemblyReference.cache
+C:\Users\maxni\OneDrive\Desktop\c#\Lab 1 q 3\Lab 1 q 3\obj\Debug\Lab 1 q 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxni\OneDrive\Desktop\c#\Lab 1 q 3\Lab 1 q 3\obj\Debug\Lab 1 q 3.csproj.CoreCompileInputs.cache
+C:\Users\maxni\OneDrive\Desktop\c#\Lab 1 q 3\Lab 1 q 3\obj\Debug\Lab 1 q 3.exe
+C:\Users\maxni\OneDrive\Desktop\c#\Lab 1 q 3\Lab 1 q 3\obj\Debug\Lab 1 q 3.pdb
